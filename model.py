@@ -1,3 +1,4 @@
+'''
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
@@ -41,3 +42,4 @@ model.fit(train_generator, epochs=10, validation_data=validation_generator)
 
 # Save the model for future use
 model.save('pneumonia_model.h5')
+'''
