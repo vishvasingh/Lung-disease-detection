@@ -2,6 +2,7 @@
 
 It is a basic Lung Disease Detection model that predicts whether the input Chest Radiograph is Pneumonia.
 But the Accuracy is 1.000 means it is 100% accurate.
+
 You can download the  zip file and extract it and open that folder in the terminal or
 Write the command on your Terminal "git clone https://github.com/vishvasingh/Lung-disease-detection.git "
 Then write "cd Lung-disease-detection"
