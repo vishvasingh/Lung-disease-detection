@@ -54,7 +54,7 @@ def predict():
 # Define the route for the home page
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('htmlcode.html')
 
 if __name__ == '__main__':
     # Load the trained model
